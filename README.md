@@ -6,7 +6,7 @@ Welcome to my DataScience projects repository! This repository covers a variety 
 
 ### 1. ChestXrayClassification
 - **Description:** Image classification project focused on classifying chest X-ray images.
-- **Dataset and Model Link:** [Dataset & Modal Link](https://drive.google.com/drive/folders/1m1PzeB7dr5PBBS-Xp11U0WS0UAtj3i_B?usp=sharing)
+- **Dataset and Model Link:** [Chest XRAY Classification Dataset & Model Link](https://drive.google.com/drive/folders/1m1PzeB7dr5PBBS-Xp11U0WS0UAtj3i_B?usp=sharing)
 
 ### 2. ClothingClassification
 - **Description:** Clothing classification project using the Fashion MNIST dataset.
@@ -34,7 +34,7 @@ Welcome to my DataScience projects repository! This repository covers a variety 
 
 ### 8. SkinCancerClassification
 - **Description:** Skin cancer classification project.
-- **Dataset & Model Link:** [Skin Cancer Classification Dataset Link](https://drive.google.com/drive/folders/1LO1kf_CuYgcb_DPaQ7vEVv-7rLb1MIwv?usp=drive_link)
+- **Dataset & Model Link:** [Skin Cancer Classification Dataset & Model Link](https://drive.google.com/drive/folders/1LO1kf_CuYgcb_DPaQ7vEVv-7rLb1MIwv?usp=drive_link)
 
 ## Usage
 
